@@ -91,7 +91,7 @@ class FreeplayState extends MusicBeatState
 			addWeek(['Ugh', 'Guns', 'Stress'], 7, ['tankman']);
 
 //test song.
-		addWeek(['Test'], 8, ['bf-pixel']);
+		addWeek(['Oranges'], 8, ['bf-pixel']);
 
 		// LOAD MUSIC
 
